@@ -3,10 +3,9 @@
 
 ##已完成
 * [第一章 统计学习方法概论](https://www.zybuluo.com/mirsking/note/194509)
-
+* [第二章 感知机](https://www.zybuluo.com/mirsking/note/195076)
 
 ##未完成
-* 第二章 感知机
 * 第三章 k近邻法
 * 第四章 朴素贝叶斯法
 * 第五章 决策树
